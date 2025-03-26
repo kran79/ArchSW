@@ -14,6 +14,7 @@ https://app.diagrams.net/
 https://grafana.com/
 https://prometheus.io/
 
+![2025-03-26_21-20-42](https://github.com/user-attachments/assets/dd75ca91-bccf-4670-a715-d0b495c88f35)
 
 
 *****************************************************************************************************
