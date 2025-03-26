@@ -1,0 +1,43 @@
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\ClinicDesctop.exe
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\ClinicDesctop.deps.json
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\ClinicDesctop.runtimeconfig.json
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\ClinicDesctop.dll
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\ClinicDesctop.pdb
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\ClinicDesctop.Data.dll
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\ClinicDesctop.Data.pdb
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.csproj.AssemblyReference.cache
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.mainForm.resources
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.csproj.GenerateResource.cache
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.GeneratedMSBuildEditorConfig.editorconfig
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.AssemblyInfoInputs.cache
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.AssemblyInfo.cs
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.csproj.CoreCompileInputs.cache
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.sourcelink.json
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDe.4A1BC4EB.Up2Date
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.dll
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\refint\ClinicDesctop.dll
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.pdb
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.genruntimeconfig.cache
+F:\NC\Documents\GB\GitARH\ARH_GB_Seminar\ARH12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ref\ClinicDesctop.dll
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\ClinicDesctop.exe
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\ClinicDesctop.deps.json
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\ClinicDesctop.runtimeconfig.json
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\ClinicDesctop.dll
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\ClinicDesctop.pdb
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\ClinicDesctop.Data.dll
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\bin\Debug\net7.0-windows\ClinicDesctop.Data.pdb
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.csproj.AssemblyReference.cache
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.mainForm.resources
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.csproj.GenerateResource.cache
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.GeneratedMSBuildEditorConfig.editorconfig
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.AssemblyInfoInputs.cache
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.AssemblyInfo.cs
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.csproj.CoreCompileInputs.cache
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDe.4A1BC4EB.Up2Date
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.dll
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\refint\ClinicDesctop.dll
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.pdb
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ClinicDesctop.genruntimeconfig.cache
+F:\NC\Documents\GB\Архитектура ПО - Задания\Итог\AK Задание 12 допроверить, оно ли\homework12\ClinicService\ClinicDesctop\obj\Debug\net7.0-windows\ref\ClinicDesctop.dll
